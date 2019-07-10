@@ -1,4 +1,4 @@
-.titulo{
+.primero{
 	background-image: url("../images/fondo.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -12,8 +12,30 @@
 	display: block;
 	margin: auto;
 }
+.texto{
+	text-align: center;
+}
+.foto{
+	width: 200px;
+	height: 275px;
+}
+.titulo{
+	color: white;
+	text-align: center;
+	border: solid white 4px;
+}
+.sub{
+	color: gray;
+	font-size: 25px;
+	padding-left: 125px;
+	padding-top: 20px;
+}
+.datos{
+	color: silver;
+	font-size: 30px;
+}
 .segundo{
-	background-color: ;
+	background-color: #282850;
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-left: 0;
@@ -21,7 +43,7 @@
 	height: 400px;
 }
 .tercero{
-	background-color: ;
+	background-color: #3B83BD;
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-left: 0;
