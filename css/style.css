@@ -20,7 +20,7 @@
 .sub{
 	color: gray;
 	font-size: 25px;
-	padding-left: 125px;
+	padding-left: 50px;
 	padding-top: 20px;
 	font-family: Times New Roman;
 }
@@ -61,7 +61,7 @@
 	color: white;
 	font-size: 25px;
 	text-align: center;
-	padding-left: 50px;
+	width: auto;
 }
 .cuarto{
 	background-color: white;
@@ -73,8 +73,8 @@
 }
 .proyectos{
 	border-radius: 200px;
-	width: 300px;
-	padding-top: 50px;
+	width: auto;
+	height: auto;
 }
 .descripcion{
 	text-align: center;
@@ -82,5 +82,10 @@
 	color: white;
 	font-size: 18px;
 	border: solid white 3px;
-	width: 300px;
+	width: auto;
+}
+.center{
+	text-align: center;
+}
+.proyectos-app{
 }
