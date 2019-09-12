@@ -1,0 +1,152 @@
+/* Primer Contenedor */
+.primero{
+	background-image: url("../images/banner.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: auto;
+}
+/* Logo de Active Box */
+.logo{
+	padding-top: 20px;
+	padding-left: 125px; 
+}
+/* Menu del sitio web */
+.menu{
+	padding-top: 20px;
+	color: #D1D1D1;
+	font-size: 13px;
+}
+.menu:hover{
+	color: white;
+	background-color: #E84642;
+	font-size: 12px;
+}
+/* Texto al frente del primer contenedor */
+.titulo{
+	color: white;
+	font-size: 47px;
+}
+/* Descripcion al frente del primer contenedor */
+.desc{
+	color: #D1D1D1;
+	text-align: center;
+}
+/* Los dos botones que aparecen en el Sitio Web */
+.boton{
+	width: 200px;
+	height: 50px;
+	color: white;
+	background-color: #E84642;
+	border: solid #E84642 2px;
+}
+/* ID del segundo contenedor */
+#segundo{
+	height: auto;
+}
+/* Iconos de Bootstrap */
+.glyphicon{
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 50%;
+	color: #E84642;
+	font-size: 50px;
+}
+/* Texto debajo de los iconos */
+.carac{
+	font-size: 20px;
+	padding-top: 15px;
+	padding-left: 30%;
+}
+/* Descripcion de los iconos */
+.descr{
+	color: silver;
+	text-align: center;
+	font-size: 16px;
+	padding-left: 17%;
+}
+/* Clase para que las imagenes se vuelvan responsivas */
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+/* ID del tercer contenedor */
+#tercero{
+	width: 100%;
+	height: auto;
+}
+/* Imagenes de los proyectos */
+.madera{
+	width: 300px;
+	height: auto;
+}
+/* ID del cuarto contenedor */
+#cuarto{
+	width: 100%;
+	height: auto;
+}
+/* Fotos de los trabajadores */
+.fotos{
+	width: 300px;
+}
+/* Nombres de los trabajadores */
+.nombres{
+	font-size: 25px;
+	font-family: Times New Roman;
+}
+/* Cargo de los trabajadores */
+.cargo{
+	color: #E84642;
+	font-family: Times New Roman;
+	font-size: 16px;
+}
+/* Descripcion del trabajo del personal */
+.trabajo{
+	color: #929292;
+	font-size: 17px;
+}
+/* ID del quinto contenedor */
+#quinto{
+	width: 100%;
+	height: auto;
+}
+/* Imagen de la mujer del testionio */
+.mujer{
+	width: 700px;
+	height: auto;
+}
+/* Fondo morado del testimonio */
+.morado{
+	background-color: #523547;
+}
+/* Testimonio */
+.testimonio{
+	color: #D1D1D1;
+	font-family: Lucida Caligraphy;
+	font-size: 35px;
+	padding-left: 80px;
+}
+/* Nombre de la mujer del testimonio */
+.nombre{
+	color: white;
+	padding-left: 80px;
+}
+/* ID del sexto contenedor */
+#sexto{
+	width: 100%;
+	height: auto;
+}
+/* Titulo de "Descarga" */
+.descarga{
+	color: #523547;
+	font-family: Times New Roman;
+	font-size: 28px;
+	text-align: center;
+}
+/* Texto de descarga */
+.download{
+	font-size: 17px;
+	text-align: center;
+}
